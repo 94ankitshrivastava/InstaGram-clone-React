@@ -1,3 +1,15 @@
+Structure of Project 
+## COMPONENTS
+    All component is availabe in component folder, the structure of component is, the name of folder should be 'Module-Name'
+    like : Auth is the name of module so in component >  App is the nam of folder & all component related app store in this folder
+
+## CONFIG
+    Config contain all the config file of App.
+
+## HOC 
+    HOC is contain all the HOC file of App  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,0 +1,17 @@
+.uploadFile{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.uploadFile__progress{
+    width: 100%;
+    height: 34px;
+    margin-bottom: 10px;
+}
+
+.uploadFile__input{
+    width: 100%;
+    height: 34px;
+    margin-bottom: 10px;
+}
